@@ -1,4 +1,12 @@
 body{
-    text-align: center;
     background: yellow;
+}
+
+table, td {
+  border:1px solid black;
+}
+
+.main{
+    text-align: center;
+
 }
